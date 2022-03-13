@@ -5,7 +5,7 @@
 
 ## Collaborators
 
-
+## Wireframes
 
 # Goal for this Project
 Welcome to T4Tri Triathalon Club. This club provides an outlet for all age groups from 16 to 116 to get involved and give trathalons a go. 
